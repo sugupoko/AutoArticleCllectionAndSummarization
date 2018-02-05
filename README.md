@@ -8,5 +8,6 @@ this version is including below functions.
 3. translate from english to japanese
 
 how to use
+
 0. set up packages
 1. Select Folder Location in global variation
